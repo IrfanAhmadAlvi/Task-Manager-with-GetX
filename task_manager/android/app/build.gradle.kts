@@ -40,5 +40,5 @@ android {
 }
 
 flutter {
-    source = "../.."
+    source = "task_manager/android/app/src"
 }
